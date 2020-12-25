@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    background-color: #ff0000;
+    height: 80vh;
+}
+
+.christmas {
+    margin: 10px 330px;
+    padding-top: 50%;
+    transform: translateY(-50%);
+}
+
+h1, p {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    border-bottom: 2px solid rgb(10, 92, 10);
+}
